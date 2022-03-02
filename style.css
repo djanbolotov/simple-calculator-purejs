@@ -67,12 +67,3 @@ input:hover{
     width: 143px;
     font-size: 20px;
 }
-
-
-footer{
-    height: 40px;
-    text-align: center;
-    font: bold normal 30px Verdana;
-    background-color: black;
-    color: gold;
-}
